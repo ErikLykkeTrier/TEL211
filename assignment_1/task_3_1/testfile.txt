@@ -1,0 +1,4 @@
+Hei dette er en test fil for å teste det andre scriptet i denne mappen.
+Teller scriptet antall linjer som ikke har noe innhold også?
+
+Det er nå 3 linjer med tekst og 1 linje uten imellom. så blir det 3 eller 4 linjer i outputen?
